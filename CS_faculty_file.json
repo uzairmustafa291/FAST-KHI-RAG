@@ -1,0 +1,464 @@
+[
+  {
+    "name": "Dr. Fahad Samad, PhD",
+    "designation": "Assistant professor , HoS , HoD (CS)",
+    "email": "fahad.samad@nu.edu.pk",
+    "extension": "134",
+    "profile": "https://khi.nu.edu.pk/personnel/dr-fahad-samad-phd/"
+  },
+  {
+    "name": "Dr. Abdul Aziz , PhD (On Leave)",
+    "designation": "Associate Professor",
+    "email": "abdulaziz@nu.edu.pk",
+    "extension": "214",
+    "profile": "https://khi.nu.edu.pk/personnel/dr-abdul-aziz-phd/"
+  },
+  {
+    "name": "Prof. Dr. Zulfiqar Ali Memon , PhD",
+    "designation": "Professor & Director",
+    "email": "zulfiqar.memon@nu.edu.pk",
+    "extension": "213",
+    "profile": "https://khi.nu.edu.pk/personnel/prof-dr-zulfiqar-ali-memon-phd/"
+  },
+  {
+    "name": "Dr. Jawwad A. Shamsi, PhD",
+    "designation": "Professor & Dean",
+    "email": "jawwad.shamsi@nu.edu.pk",
+    "extension": "218",
+    "profile": "https://khi.nu.edu.pk/personnel/dr-jawwad-a-shamsi-phd/"
+  },
+  {
+    "name": "Dr. Ghufran Ahmed, PhD",
+    "designation": "Professor",
+    "email": "ghufran.ahmed@nu.edu.pk",
+    "extension": "233",
+    "profile": "https://khi.nu.edu.pk/personnel/dr-ghufran-ahmed-phd/"
+  },
+  {
+    "name": "Dr. Nouman Durrani, PhD",
+    "designation": "Associate Professor",
+    "email": "muhammad.nouman@nu.edu.pk",
+    "extension": "133",
+    "profile": "https://khi.nu.edu.pk/personnel/dr-nouman-durrani-phd/"
+  },
+  {
+    "name": "Engr. Dr. Fahad Sherwani, PhD",
+    "designation": "Assistant Professor & GSC Coordinator",
+    "email": "fahad.sherwani@nu.edu.pk",
+    "extension": "219",
+    "profile": "https://khi.nu.edu.pk/personnel/dr-fahad-sherwani-phd/"
+  },
+  {
+    "name": "Dr. Shakil Ahmed, PhD",
+    "designation": "Associate Professor",
+    "email": "shakil.ahmed@nu.edu.pk",
+    "extension": "-",
+    "profile": "https://khi.nu.edu.pk/personnel/dr-shakil-ahmed-phd/"
+  },
+  {
+    "name": "Dr. Nadeem Kafi, PhD",
+    "designation": "Assistant Professor",
+    "email": "nadeem.kafi@nu.edu.pk",
+    "extension": "131",
+    "profile": "https://khi.nu.edu.pk/personnel/dr-nadeem-kafi-phd/"
+  },
+  {
+    "name": "Dr. Farrukh Salim Shaikh, PhD",
+    "designation": "Assistant Professor",
+    "email": "farrukh.salim@nu.edu.pk",
+    "extension": "167",
+    "profile": "https://khi.nu.edu.pk/personnel/dr-farrukh-salim-shaikh-phd/"
+  },
+  {
+    "name": "Dr. Aqsa Aslam , PhD",
+    "designation": "Assistant Professor",
+    "email": "aqsa.aslam@nu.edu.pk",
+    "extension": "220",
+    "profile": "https://khi.nu.edu.pk/personnel/dr-aqsa-aslam-phd/"
+  },
+  {
+    "name": "Dr. Nasir Uddin , PhD",
+    "designation": "Assistant Professor",
+    "email": "nasir.uddin@nu.edu.pk",
+    "extension": "164",
+    "profile": "https://khi.nu.edu.pk/personnel/dr-nasir-uddin-phd/"
+  },
+  {
+    "name": "Engr. Abdul Rahman",
+    "designation": "Assistant Professor",
+    "email": "abdulrahman@nu.edu.pk",
+    "extension": "236",
+    "profile": "https://khi.nu.edu.pk/personnel/engr-abdul-rahman/"
+  },
+  {
+    "name": "Mr. Muhammad Jamil",
+    "designation": "Assistant Professor",
+    "email": "m.jamil@nu.edu.pk",
+    "extension": "245",
+    "profile": "https://khi.nu.edu.pk/personnel/mr-muhammad-jamil/"
+  },
+  {
+    "name": "Dr. Rabia Tabassum",
+    "designation": "Assistant Professor",
+    "email": "rabia.tabassum@nu.edu.pk",
+    "extension": "235",
+    "profile": "https://khi.nu.edu.pk/personnel/dr-nausheen-shoaib/"
+  },
+  {
+    "name": "Mr. Syed Kashan Hussain Naqvi",
+    "designation": "Assistant Professor",
+    "email": "kashan.hussain@nu.edu.pk",
+    "extension": "283",
+    "profile": "https://khi.nu.edu.pk/personnel/mr-shahbaz-siddiqui/"
+  },
+  {
+    "name": "Mr. Ubaid Aftab",
+    "designation": "Assistant Professor (Adjunct)",
+    "email": "ubaid.aftab@nu.edu.pk",
+    "extension": "225",
+    "profile": "https://khi.nu.edu.pk/personnel/mr-ubaid-aftab/"
+  },
+  {
+    "name": "Ms. Shahar Bano Husnine",
+    "designation": "Lecturer",
+    "email": "shahar.bano@nu.edu.pk",
+    "extension": "220",
+    "profile": "https://khi.nu.edu.pk/personnel/ms-shahar-bano-husnine/"
+  },
+  {
+    "name": "Mr. Shoaib Rauf",
+    "designation": "Lecturer",
+    "email": "shoaib.rauf@nu.edu.pk",
+    "extension": "258",
+    "profile": "https://khi.nu.edu.pk/personnel/mr-shoaib-rauf/"
+  },
+  {
+    "name": "Mr. Basit Ali",
+    "designation": "Lecturer",
+    "email": "basit.jasani@nu.edu.pk",
+    "extension": "130",
+    "profile": "https://khi.nu.edu.pk/personnel/mr-basit-ali/"
+  },
+  {
+    "name": "Mr. Syed Zain Ul Hassan",
+    "designation": "Lecturer",
+    "email": "zain.hassan@nu.edu.pk",
+    "extension": "197",
+    "profile": "https://khi.nu.edu.pk/personnel/mr-syed-zain-ul-hassan/"
+  },
+  {
+    "name": "Ms. Sobia Iftikhar",
+    "designation": "Lecturer",
+    "email": "sobia.iftikhar@nu.edu.pk",
+    "extension": "237",
+    "profile": "https://khi.nu.edu.pk/personnel/ms-sobia-iftikhar/"
+  },
+  {
+    "name": "Ms. Anaum Hamid",
+    "designation": "Lecturer",
+    "email": "anaum.hamid@nu.edu.pk",
+    "extension": "237",
+    "profile": "https://khi.nu.edu.pk/personnel/ms-anaum-hamid/"
+  },
+  {
+    "name": "Ms. Nida Munawar (ON LEAVE)",
+    "designation": "Lecturer",
+    "email": "nida.munawwar@nu.edu.pk",
+    "extension": "136",
+    "profile": "https://khi.nu.edu.pk/personnel/ms-nida-munawar/"
+  },
+  {
+    "name": "Ms. Sumaiyah",
+    "designation": "Lecturer",
+    "email": "sumaiyah@nu.edu.pk",
+    "extension": "266",
+    "profile": "https://khi.nu.edu.pk/personnel/ms-sumaiyah/"
+  },
+  {
+    "name": "Ms. Mubashra Fayyaz (ON LEAVE)",
+    "designation": "Lecturer",
+    "email": "mubashra.fayyaz@nu.edu.pk",
+    "extension": "172",
+    "profile": "https://khi.nu.edu.pk/personnel/ms-mubashra-fayyaz/"
+  },
+  {
+    "name": "Ms. Hajra Ahmed",
+    "designation": "Lecturer",
+    "email": "hajra.ahmed@nu.edu.pk",
+    "extension": "142",
+    "profile": "https://khi.nu.edu.pk/personnel/ms-hajra-ahmed/"
+  },
+  {
+    "name": "Mr. Shaheer Ahmad Khan",
+    "designation": "Lecturer",
+    "email": "shaheer.khan@nu.edu.pk",
+    "extension": "284",
+    "profile": "https://khi.nu.edu.pk/personnel/mr-shaheer-ahmad-khan/"
+  },
+  {
+    "name": "Engr. Aashir Mahboob",
+    "designation": "Lecturer",
+    "email": "aashir.mahboob@nu.edu.pk",
+    "extension": "288",
+    "profile": "https://khi.nu.edu.pk/personnel/engr-aashir-mahboob/"
+  },
+  {
+    "name": "Ms. Abeeha Sattar",
+    "designation": "Lecturer",
+    "email": "abeeha.sattar@nu.edu.pk",
+    "extension": "160",
+    "profile": "https://khi.nu.edu.pk/personnel/ms-abeeha-sattar/"
+  },
+  {
+    "name": "Ms. Bakhtawer (ON LEAVE)",
+    "designation": "Lecturer",
+    "email": "bakhtawar.abbasi@nu.edu.pk",
+    "extension": "136",
+    "profile": "https://khi.nu.edu.pk/personnel/ms-bakhtawer/"
+  },
+  {
+    "name": "Ms. Javeria Farooq",
+    "designation": "Lecturer",
+    "email": "javeria.farooq@nu.edu.pk",
+    "extension": "220",
+    "profile": "https://khi.nu.edu.pk/personnel/ms-javeria-farooq/"
+  },
+  {
+    "name": "Ms. Fizza Aqeel (ON LEAVE)",
+    "designation": "Lecturer",
+    "email": "fizza.aqeel@nu.edu.pk",
+    "extension": "153",
+    "profile": "https://khi.nu.edu.pk/personnel/ms-fizza-aqeel/"
+  },
+  {
+    "name": "Ms. Atiya Jokhio (ON LEAVE)",
+    "designation": "Lecturer",
+    "email": "atiya.jokhiyo@nu.edu.pk",
+    "extension": "399",
+    "profile": "https://khi.nu.edu.pk/personnel/ms-atiya-jokhio/"
+  },
+  {
+    "name": "Ms. Romasha Khurshid (On Leave)",
+    "designation": "Lecturer",
+    "email": "romasha.khurshid@nu.edu.pk",
+    "extension": "-",
+    "profile": "https://khi.nu.edu.pk/personnel/ms-romasha-khurshid/"
+  },
+  {
+    "name": "Mr. Musawar Ali (On Leave)",
+    "designation": "Lecturer",
+    "email": "musawar.ali@nu.edu.pk",
+    "extension": "-",
+    "profile": "https://khi.nu.edu.pk/personnel/mr-musawar-ali/"
+  },
+  {
+    "name": "Ms. Yusra Kaleem (ON LEAVE)",
+    "designation": "Lecturer",
+    "email": "yusra.kaleem@nu.edu.pk",
+    "extension": "280",
+    "profile": "https://khi.nu.edu.pk/personnel/ms-yusra-kaleem/"
+  },
+  {
+    "name": "Mr. Syed Faisal Ali",
+    "designation": "Lecturer",
+    "email": "faisal.ali@nu.edu.pk",
+    "extension": "159",
+    "profile": "https://khi.nu.edu.pk/personnel/mr-syed-faisal-ali/"
+  },
+  {
+    "name": "Mr. Muhammad Kashif",
+    "designation": "Lecturer",
+    "email": "kashif.shaikh@nu.edu.pk",
+    "extension": "136",
+    "profile": "https://khi.nu.edu.pk/personnel/mr-muhammad-kashif/"
+  },
+  {
+    "name": "Mr. Usama Antuley",
+    "designation": "Lecturer",
+    "email": "usama.antuley@nu.edu.pk",
+    "extension": "161",
+    "profile": "https://khi.nu.edu.pk/personnel/mr-usama-antuley/"
+  },
+  {
+    "name": "Mr. Ubaidullah",
+    "designation": "Lecturer",
+    "email": "ubaid.ullah.v@nu.edu.pk",
+    "extension": "-",
+    "profile": "https://khi.nu.edu.pk/personnel/mr-ubaidullah/"
+  },
+  {
+    "name": "Mr. Zulfiqar Ali",
+    "designation": "Lecturer",
+    "email": "zulfiqar.rafique@nu.edu.pk",
+    "extension": "136",
+    "profile": "https://khi.nu.edu.pk/personnel/mr-zulfiqar-ali/"
+  },
+  {
+    "name": "Mr. Syed Ahmed Khan",
+    "designation": "Lecturer",
+    "email": "syed.ahmed@nu.edu.pk",
+    "extension": "-",
+    "profile": "https://khi.nu.edu.pk/personnel/mr-syed-ahmed-khan/"
+  },
+  {
+    "name": "Ms. Zainab Asif Jawed",
+    "designation": "Lecturer",
+    "email": "zainab.asif@nu.edu.pk",
+    "extension": "293",
+    "profile": "https://khi.nu.edu.pk/personnel/ms-zainab-asif-jawed/"
+  },
+  {
+    "name": "Mr. Ghulam Qadir Bhurgari",
+    "designation": "Lecturer",
+    "email": "ghulam.qadir@nu.edu.pk",
+    "extension": "284",
+    "profile": "https://khi.nu.edu.pk/personnel/mr-ghulam-qadir-bhurgari/"
+  },
+  {
+    "name": "Mr. Shafique Rahman",
+    "designation": "Lecturer",
+    "email": "shafique.rehman@nu.edu.pk",
+    "extension": "284",
+    "profile": "https://khi.nu.edu.pk/personnel/mr-shafique-rahman/"
+  },
+  {
+    "name": "Mr. Jibran Rasheed Khan",
+    "designation": "Lecturer",
+    "email": "jibran.rasheed@nu.edu.pk",
+    "extension": "-",
+    "profile": "https://khi.nu.edu.pk/personnel/mr-jibran-rasheed-khan/"
+  },
+  {
+    "name": "Mr. Ghulam Murtaza",
+    "designation": "Lecturer",
+    "email": "ghulam.murtaza@nu.edu.pk",
+    "extension": "-",
+    "profile": "https://khi.nu.edu.pk/personnel/mr-ghulam-murtaza/"
+  },
+  {
+    "name": "Ms. Fatima Gado",
+    "designation": "Instructor",
+    "email": "fatima.gado@nu.edu.pk",
+    "extension": "293",
+    "profile": "https://khi.nu.edu.pk/personnel/ms-fatima-gado/"
+  },
+  {
+    "name": "Ms. Hafiza Bushra Sattar (ON LEAVE)",
+    "designation": "Instructor",
+    "email": "bushra.sattar@nu.edu.pk",
+    "extension": "237",
+    "profile": "https://khi.nu.edu.pk/personnel/ms-hafiza-bushra-sattar/"
+  },
+  {
+    "name": "Ms Ramsha Iqbal",
+    "designation": "Instructor",
+    "email": "ramsha.iqbal@nu.edu.pk",
+    "extension": "293",
+    "profile": "https://khi.nu.edu.pk/personnel/ms-ramsha-iqbal/"
+  },
+  {
+    "name": "Ms. Khadija tul Kubra",
+    "designation": "Instructor",
+    "email": "khadija@nu.edu.pk",
+    "extension": "293",
+    "profile": "https://khi.nu.edu.pk/personnel/ms-khadija-tul-kubra/"
+  },
+  {
+    "name": "Ms. Syeda Tehreem Gilani",
+    "designation": "Instructor",
+    "email": "syeda.tehreem@nu.edu.pk",
+    "extension": "293",
+    "profile": "https://khi.nu.edu.pk/personnel/ms-syeda-tehreem-gilani/"
+  },
+  {
+    "name": "Mr. Abdullah Shaikh",
+    "designation": "Instructor",
+    "email": "abdullah.shaikh@nu.edu.pk",
+    "extension": "-",
+    "profile": "https://khi.nu.edu.pk/personnel/mr-abdullah-shaikh/"
+  },
+  {
+    "name": "Mr. Abdullah Yaqoob",
+    "designation": "Instructor",
+    "email": "abdullah.yaqoob@nu.edu.pk",
+    "extension": "-",
+    "profile": "https://khi.nu.edu.pk/personnel/mr-abdullah-yaqoob/"
+  },
+  {
+    "name": "Ms. Fareeha Jabeen",
+    "designation": "Instructor",
+    "email": "fareeha.jabeen@nu.edu.pk",
+    "extension": "-",
+    "profile": "https://khi.nu.edu.pk/personnel/ms-fareeha-jabeen/"
+  },
+  {
+    "name": "Ms. Sadaf Zehra",
+    "designation": "Instructor",
+    "email": "sadaf.zehra@nu.edu.pk",
+    "extension": "-",
+    "profile": "https://khi.nu.edu.pk/personnel/ms-sadaf-zehra/"
+  },
+  {
+    "name": "Mr. Muhammad Qasim Keeryo",
+    "designation": "Instructor",
+    "email": "qasim.keeryo@nu.edu.pk",
+    "extension": "-",
+    "profile": "https://khi.nu.edu.pk/personnel/mr-muhammad-qasim-keeryo/"
+  },
+  {
+    "name": "Mr. Osama Tahir",
+    "designation": "Instructor",
+    "email": "osama.tahir@nu.edu.pk",
+    "extension": "-",
+    "profile": "https://khi.nu.edu.pk/personnel/mr-osama-tahir/"
+  },
+  {
+    "name": "Mr. Sheeraz Iqbal",
+    "designation": "Instructor",
+    "email": "sheeraz.iqbal@nu.edu.pk",
+    "extension": "-",
+    "profile": "https://khi.nu.edu.pk/personnel/mr-sheeraz-iqbal/"
+  },
+  {
+    "name": "Mr. Muhammad Owais",
+    "designation": "Instructor",
+    "email": "muhammad.owais@nu.edu.pk",
+    "extension": "-",
+    "profile": "https://khi.nu.edu.pk/personnel/mr-muhammad-owais/"
+  },
+  {
+    "name": "Ms. Izzah Salam",
+    "designation": "Instructor",
+    "email": "izzah.salam@nu.edu.pk",
+    "extension": "-",
+    "profile": "https://khi.nu.edu.pk/personnel/ms-izzah-salam/"
+  },
+  {
+    "name": "Ms. Seema Hashwani",
+    "designation": "Instructor",
+    "email": "seema.hashwani@nu.edu.pk",
+    "extension": "-",
+    "profile": "https://khi.nu.edu.pk/personnel/ms-seema-hashwani/"
+  },
+  {
+    "name": "Ms. Saira Ayub",
+    "designation": "Instructor",
+    "email": "saira.ayub@nu.edu.pk",
+    "extension": "-",
+    "profile": "https://khi.nu.edu.pk/personnel/ms-saira-ayub/"
+  },
+  {
+    "name": "Mr. Riaz Ahmed",
+    "designation": "Instructor",
+    "email": "riaz.ahmed@nu.edu.pk",
+    "extension": "142",
+    "profile": "https://khi.nu.edu.pk/personnel/mr-riaz-ahmed/"
+  },
+  {
+    "name": "Mr. Atif Luqman",
+    "designation": "Instructor",
+    "email": "atif.luqman@nu.edu.pk",
+    "extension": "284",
+    "profile": "https://khi.nu.edu.pk/personnel/mr-atif-luqman/"
+  }
+]
