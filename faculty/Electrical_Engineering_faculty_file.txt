@@ -1,0 +1,133 @@
+
+Name: Dr. Muhammad Junaid Rabbani , PhD
+Designation: Assistant Professor & In-Charge
+Email: junaid.rabbani@nu.edu.pk
+Extension: 265
+Profile: https://khi.nu.edu.pk/personnel/mr-muhammad-junaid-rabbani/
+
+
+Name: Dr. Burhan Khan, PhD
+Designation: Professor
+Email: burhan.khan@nu.edu.pk
+Extension: 242
+Profile: https://khi.nu.edu.pk/personnel/dr-burhan-khan-phd/
+
+
+Name: Dr. Syed Muhammad Atif Saleem
+Designation: Associate Professor
+Email: atif.saleem@nu.edu.pk
+Extension: 272
+Profile: https://khi.nu.edu.pk/personnel/dr-syed-muhammad-atif-saleem/
+
+
+Name: Dr. Haider Mehdi, PhD
+Designation: Professor
+Email: haider.mehdi@nu.edu.pk
+Extension: 286
+Profile: https://khi.nu.edu.pk/personnel/dr-haider-mehdi-phd/
+
+
+Name: Dr Ahsan Nadeem
+Designation: Assistant Professor
+Email: ahsan.n@nu.edu.pk
+Extension: 169
+Profile: https://khi.nu.edu.pk/personnel/dr-ahsan-nadeem/
+
+
+Name: Mr. Muhammad Ahsan
+Designation: Lecturer
+Email: muhammad.ahsan@nu.edu.pk
+Extension: 292
+Profile: https://khi.nu.edu.pk/personnel/mr-m-ahsan-khan-sunny/
+
+
+Name: Mr. Muhammad Haris Mohsin
+Designation: Assistant Professor
+Email: haris.mohsin@nu.edu.pk
+Extension: 285
+Profile: https://khi.nu.edu.pk/personnel/mr-muhammad-haris-mohsin/
+
+
+Name: Mr. Syed Asim Mahmood
+Designation: Assistant Professor
+Email: asim.mehmood@nu.edu.pk
+Extension: 234
+Profile: https://khi.nu.edu.pk/personnel/mr-syed-asim-mahmood/
+
+
+Name: Ms. Qurat ul Ain Sohail
+Designation: Assistant Professor
+Email: quratulain@nu.edu.pk
+Extension: 274
+Profile: https://khi.nu.edu.pk/personnel/ms-qurat-ul-ain-sohail/
+
+
+Name: Dr. Hina Gohar
+Designation: Assistant Professor
+Email: hina.gohar@nu.edu.pk
+Extension: 121
+Profile: https://khi.nu.edu.pk/personnel/dr-hina-gohar/
+
+
+Name: Mr. Aamir Ali
+Designation: Lecturer
+Email: amir.ali@nu.edu.pk
+Extension: 211
+Profile: https://khi.nu.edu.pk/personnel/mr-aamir-ali/
+
+
+Name: Mr. Aqib Noor
+Designation: Lecturer
+Email: aqib.noor@nu.edu.pk
+Extension: 282
+Profile: https://khi.nu.edu.pk/personnel/mr-aqib-noor/
+
+
+Name: Mr. Zakir Hussain
+Designation: Lecturer
+Email: zakir.hussain@nu.edu.pk
+Extension: 259
+Profile: https://khi.nu.edu.pk/personnel/mr-zakir-hussain/
+
+
+Name: Ms. Maham Ghauri
+Designation: Lecturer
+Email: maham.ghouri@nu.edu.pk
+Extension: 289
+Profile: https://khi.nu.edu.pk/personnel/ms-maham-ghauri/
+
+
+Name: Ms. Rukhsar Ali
+Designation: Lecturer
+Email: rukhsar.ali@nu.du.pk
+Extension: 281
+Profile: https://khi.nu.edu.pk/personnel/ms-rukhsar-ali/
+
+
+Name: Ms. Sadaf Ayesha
+Designation: Lecturer
+Email: sadaf.ayesha@nu.edu.pk
+Extension: 121
+Profile: https://khi.nu.edu.pk/personnel/ms-sadaf-ayesha/
+
+
+Name: Mr. Muhammad Daniyal
+Designation: Lab Engineer
+Email: muhammad.daniyal@nu.edu.pk
+Extension: 263
+Profile: https://khi.nu.edu.pk/personnel/mr-muhammad-daniyal/
+
+
+Name: Mr. Zohaib Ahmed
+Designation: Lab Engineer
+Email: zohaib.ahmed@nu.edu.pk
+Extension: 263
+Profile: https://khi.nu.edu.pk/personnel/mr-zohaib-ahmed/
+
+
+Name: Ms. Mariam Iqbal
+Designation: Lab Engineer
+Email: mariam.iqbal@nu.edu.pk
+Extension: 166
+Profile: https://khi.nu.edu.pk/personnel/ms-mariam-iqbal/
+

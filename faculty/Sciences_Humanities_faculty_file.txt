@@ -1,0 +1,294 @@
+
+Name: Dr. Muhammad Shahzad Shaikh
+Designation: Associate Professor & HoD
+Email: shahzad.shaikh@nu.edu.pk
+Extension: 248
+Profile: https://khi.nu.edu.pk/personnel/dr-muhammad-shahzad-shaikh/
+
+
+Name: Dr. Syed Muhammad Fahad Riaz
+Designation: Assistant Professor
+Email: fahad.riaz@nu.edu.pk
+Extension: 267
+Profile: https://khi.nu.edu.pk/personnel/dr-syed-muhammad-fahad-riaz/
+
+
+Name: Dr. Khusro Mian
+Designation: Associate Professor
+Email: khusro.mian@nu.edu.pk
+Extension: 300
+Profile: https://khi.nu.edu.pk/personnel/dr-khusro-mian/
+
+
+Name: Dr. Nazish Kanwal (On Leave)
+Designation: Assistant Professor
+Email: nazish.kanwal@nu.edu.pk
+Extension: 303
+Profile: https://khi.nu.edu.pk/personnel/dr-nazish-kanwal/
+
+
+Name: Dr. Shahnawaz Muhammad Khan
+Designation: Assistant Professor
+Email: -
+Extension: 305
+Profile: https://khi.nu.edu.pk/personnel/dr-shahnawaz-muhammad-khan/
+
+
+Name: Mr. Muhammad Amjad
+Designation: Assistant Professor
+Email: muhammad.amjad@nu.edu.pk
+Extension: 261
+Profile: https://khi.nu.edu.pk/personnel/mr-muhammad-amjad/
+
+
+Name: Dr. Wajiha Raheeq
+Designation: Assistant Professor
+Email: wajeeha.raheeq@nu.edu.pk
+Extension: 230
+Profile: https://khi.nu.edu.pk/personnel/dr-wajiha-raheeq/
+
+
+Name: Ms. Alishba Tariq
+Designation: Lecturer
+Email: alishba.tariq@nu.edu.pk
+Extension: 309
+Profile: https://khi.nu.edu.pk/personnel/ms-alishba-tariq/
+
+
+Name: Ms. Aqsa Fayyaz
+Designation: Lecturer
+Email: aqsa.fayyaz@nu.edu.pk
+Extension: 192
+Profile: https://khi.nu.edu.pk/personnel/ms-aqsa-fayyaz/
+
+
+Name: Ms. Asma Masood
+Designation: Lecturer
+Email: asma.masood@nu.edu.pk
+Extension: 247
+Profile: https://khi.nu.edu.pk/personnel/ms-asma-masood/
+
+
+Name: Ms. Faiza Mumtaz
+Designation: Lecturer
+Email: faiza.mumtaz@nu.edu.pk
+Extension: 299
+Profile: https://khi.nu.edu.pk/personnel/ms-faiza-mumtaz/
+
+
+Name: Ms. Fareeha Sultan (On Leave)
+Designation: Lecturer
+Email: fareeha.sultan@nu.edu.pk
+Extension: 299
+Profile: https://khi.nu.edu.pk/personnel/ms-fareeha-sultan/
+
+
+Name: Mr. Farhan Ali Memon
+Designation: Lecturer
+Email: farhan.ali@nu.edu.pk
+Extension: 310
+Profile: https://khi.nu.edu.pk/personnel/mr-farhan-ali-memon/
+
+
+Name: Ms. Javeria Ali Wadho
+Designation: Lecturer
+Email: javeria.ali@nu.edu.pk
+Extension: 127
+Profile: https://khi.nu.edu.pk/personnel/ms-javeria-ali-wadho/
+
+
+Name: Ms. Khadija Shereen
+Designation: Lecturer
+Email: khadija.shereen@nu.edu.pk
+Extension: 127
+Profile: https://khi.nu.edu.pk/personnel/ms-khadija-shereen/
+
+
+Name: Ms. Madiha Rehman
+Designation: Lecturer
+Email: madiha.rehman@nu.edu.pk
+Extension: 251
+Profile: https://khi.nu.edu.pk/personnel/ms-madiha-rehman/
+
+
+Name: Mr. Maraj
+Designation: Lecturer
+Email: mairaj@nu.edu.pk
+Extension: 307
+Profile: https://khi.nu.edu.pk/personnel/mr-maraj/
+
+
+Name: Mr. Muhammad Hassan Saeed
+Designation: Assistant Professor
+Email: hassan.saeed@nu.edu.pk
+Extension: 108
+Profile: https://khi.nu.edu.pk/personnel/mr-muhammad-hassan-saeed/
+
+
+Name: Mr. Muhammad Shahid Ashraf
+Designation: Lecturer
+Email: shahid.ashraf@nu.edu.pk
+Extension: -
+Profile: https://khi.nu.edu.pk/personnel/mr-muhammad-shahid-ashraf/
+
+
+Name: Mr. Nadeem Khan
+Designation: Lecturer
+Email: nadeem.arif@nu.edu.pk
+Extension: 246
+Profile: https://khi.nu.edu.pk/personnel/mr-nadeem-khan/
+
+
+Name: Ms. Nazia Imam
+Designation: Lecturer
+Email: nazia.imam@nu.edu.pk
+Extension: 298
+Profile: https://khi.nu.edu.pk/personnel/ms-nazia-imam/
+
+
+Name: Ms. Sharmeen Ismail
+Designation: Lecturer
+Email: sharmeen.ismail@nu.edu.pk
+Extension: 192
+Profile: https://khi.nu.edu.pk/personnel/ms-sharmeen-ismail/
+
+
+Name: Ms. Syeda Atifa Batool
+Designation: Lecturer
+Email: atifa.batool@nu.edu.pk
+Extension: 126
+Profile: https://khi.nu.edu.pk/personnel/ms-syeda-atifa-batool/
+
+
+Name: Mr. Ishtiaq Ahmad
+Designation: Lecturer
+Email: ishtiaq.ahmed@nu.edu.pk
+Extension: 112
+Profile: https://khi.nu.edu.pk/personnel/mr-ishtiaq-ahmad/
+
+
+Name: Mr. Muhammad Hasham
+Designation: Lecturer
+Email: muhammad.hasham@nu.edu.pk
+Extension: 112
+Profile: https://khi.nu.edu.pk/personnel/mr-muhammad-hasham/
+
+
+Name: Ms. Javeriya Ahmed Hussain
+Designation: Lecturer
+Email: javeriya.ahmed@nu.edu.pk
+Extension: 251
+Profile: https://khi.nu.edu.pk/personnel/ms-javeriya-ahmed-hussain/
+
+
+Name: Mr. Muhammad Rahim
+Designation: Lecturer
+Email: muhammad.rahim@nu.edu.pk
+Extension: 310
+Profile: https://khi.nu.edu.pk/personnel/mr-muhammad-rahim/
+
+
+Name: Ms. Khushboo Farid Khan Ghouri
+Designation: Lecturer
+Email: khushboo.farid@nu.edu.pk
+Extension: 306
+Profile: https://khi.nu.edu.pk/personnel/ms-khushboo-farid-khan-ghouri/
+
+
+Name: Ms. Huma Hafeez
+Designation: Lecturer
+Email: huma.hafeez@nu.edu.pk
+Extension: 243
+Profile: https://khi.nu.edu.pk/personnel/ms-huma-hafeez/
+
+
+Name: Ms. Uzma Saleh
+Designation: Lecturer
+Email: uzma.saleh@nu.edu.pk
+Extension: 254
+Profile: https://khi.nu.edu.pk/personnel/ms-uzma-saleh/
+
+
+Name: Ms. Wajiha Akber Durrani
+Designation: Lecturer
+Email: wajiha.akber@nu.edu.pk
+Extension: 253
+Profile: https://khi.nu.edu.pk/personnel/ms-wajiha-akber-durrani-2/
+
+
+Name: Ms. Kauser Malik
+Designation: Lecturer
+Email: kauser.malik@nu.edu.pk
+Extension: 339
+Profile: https://khi.nu.edu.pk/personnel/ms-kauser-malik/
+
+
+Name: Ms. Faiza Iqbal
+Designation: Lecturer
+Email: faiza.iqbal@nu.edu.pk
+Extension: 254
+Profile: https://khi.nu.edu.pk/personnel/ms-faiza-iqbal/
+
+
+Name: Ms. Maimoona Moin
+Designation: Lecturer
+Email: maimoona.moin@nu.edu.pk
+Extension: 235
+Profile: https://khi.nu.edu.pk/personnel/ms-maimoona-moin/
+
+
+Name: Ms. Sana Naz
+Designation: Lecturer
+Email: sana.naz@nu.edu.pk
+Extension: 299
+Profile: https://khi.nu.edu.pk/personnel/ms-sana-naz/
+
+
+Name: Ms. Tahira Abdul Hakeem
+Designation: Lecturer
+Email: tahira@nu.edu.pk
+Extension: 235
+Profile: https://khi.nu.edu.pk/personnel/ms-tahira-abdul-hakeem/
+
+
+Name: Mr. Immad Uddin Ahmed
+Designation: Lecturer
+Email: immad.ahmed@nu.edu.pk
+Extension: 251
+Profile: https://khi.nu.edu.pk/personnel/mr-immad-uddin-ahmed/
+
+
+Name: Ms. Quratulain Anwar
+Designation: Lecturer
+Email: quratulain.anwar@nu.edu.pk
+Extension: 112
+Profile: https://khi.nu.edu.pk/personnel/ms-quratulain-anwar/
+
+
+Name: Mr. Syed Ashad Ali
+Designation: Lecturer
+Email: ashad.ali@nu.edu.pk
+Extension: 251
+Profile: https://khi.nu.edu.pk/personnel/mr-syed-ashad-ali/
+
+
+Name: Mr. Abdullah Siddiqui
+Designation: Lecturer
+Email: abdullah.siddiqui@nu.edu.pk
+Extension: 251
+Profile: https://khi.nu.edu.pk/personnel/mr-abdullah-siddiqui/
+
+
+Name: Mr. Muhammad Adeel
+Designation: Lecturer
+Email: adeel@nu.edu.pk
+Extension: 310
+Profile: https://khi.nu.edu.pk/personnel/mr-muhammad-adeel/
+
+
+Name: Mr. Muhammad Miqdad Khan
+Designation: Lecturer
+Email: miqdad.khan@nu.edu.pk
+Extension: 310
+Profile: https://khi.nu.edu.pk/personnel/mr-muhammad-miqdad-khan/
+

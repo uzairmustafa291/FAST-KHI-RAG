@@ -1,0 +1,84 @@
+
+Name: Dr. Anam Qureshi , PhD
+Designation: Incharge & Assistant Professor
+Email: anam.qureshi@nu.edu.pk
+Extension: 141
+Profile: https://khi.nu.edu.pk/personnel/dr-anam-qureshi/
+
+
+Name: Dr. Imran Ali Bhatti (On Leave)
+Designation: Assistant Professor
+Email: imran.ali@nu.edu.pk
+Extension: 130
+Profile: https://khi.nu.edu.pk/personnel/dr-imran-ali-bhatti/
+
+
+Name: Mr. Muhammad Ali Shah Fatmi
+Designation: Lecturer
+Email: ali.shah@nu.edu.pk
+Extension: 257
+Profile: https://khi.nu.edu.pk/personnel/mr-ali-fatimi/
+
+
+Name: Ms. Syeda Rubab
+Designation: Lecturer
+Email: syeda.rubab@nu.edu.pk
+Extension: 279
+Profile: https://khi.nu.edu.pk/personnel/ms-syeda-rubab/
+
+
+Name: Mr. Minhal Raza
+Designation: Lecturer
+Email: minhal.raza@nu.edu.pk
+Extension: 190
+Profile: https://khi.nu.edu.pk/personnel/mr-minhal-raza/
+
+
+Name: Ms. Alina Arshad
+Designation: Lecturer
+Email: alina.arshad@nu.edu.pk
+Extension: 172
+Profile: https://khi.nu.edu.pk/personnel/ms-alina-arshad/
+
+
+Name: Ms Hira Tunio
+Designation: Lecturer
+Email: hira.tunio@nu.edu.pk
+Extension: 131
+Profile: https://khi.nu.edu.pk/personnel/ms-hira-tunio/
+
+
+Name: Ms. Fizza Mansoor (ON LEAVE)
+Designation: Lecturer
+Email: fizza.mansoor@nu.edu.pk
+Extension: 153
+Profile: https://khi.nu.edu.pk/personnel/ms-fizza-mansoor/
+
+
+Name: Ms. Maqsood Khatoon
+Designation: Lecturer
+Email: maqsood.khatoon@nu.edu.pk
+Extension: -
+Profile: https://khi.nu.edu.pk/personnel/ms-maqsood-khatoon/
+
+
+Name: Mr. Muhammad Nadeem
+Designation: Instructor
+Email: muhammad.nadeem@nu.edu.pk
+Extension: 293
+Profile: https://khi.nu.edu.pk/personnel/mr-muhammad-nadeem/
+
+
+Name: Ms. Syeda Ravia Ejaz
+Designation: Instructor
+Email: ravia.ijaz@nu.edu.pk
+Extension: 172
+Profile: https://khi.nu.edu.pk/personnel/ms-syeda-ravia-ejaz/
+
+
+Name: Ms. Kinza Mushtaq
+Designation: Instructor
+Email: kinza.mushtaq@nu.edu.pk
+Extension: -
+Profile: https://khi.nu.edu.pk/personnel/ms-kinza-mushtaq/
+

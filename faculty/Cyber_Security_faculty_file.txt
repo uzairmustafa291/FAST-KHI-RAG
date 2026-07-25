@@ -1,0 +1,91 @@
+
+Name: Dr. Shahbaz Siddiqui, PhD
+Designation: Associate Professor
+Email: shahbaz.siddiqui@nu.edu.pk
+Extension: 132
+Profile: https://khi.nu.edu.pk/personnel/drshahbaz-siddiqui/
+
+
+Name: Dr. Sufian Hameed , PhD
+Designation: Professor
+Email: sufian.hameed@nu.edu.pk
+Extension: 297
+Profile: https://khi.nu.edu.pk/personnel/dr-sufian-hameed-phd/
+
+
+Name: Mr. Shoaib Raza
+Designation: Lecturer
+Email: shoaib.raza@nu.edu.pk
+Extension: 135
+Profile: https://khi.nu.edu.pk/personnel/mr-shoaib-raza/
+
+
+Name: Ms. Rabia Ahmed Ansari
+Designation: Lecturer
+Email: rabia.ansari@nu.edu.pk
+Extension: 293
+Profile: https://khi.nu.edu.pk/personnel/ms-rabia-ahmed-ansari/
+
+
+Name: Mr. Abuzar Zafar
+Designation: Lecturer
+Email: abuzar.zafar@nu.edu.pk
+Extension: 237
+Profile: https://khi.nu.edu.pk/personnel/mr-abuzar-zafar/
+
+
+Name: Ms. Abeer Gauher
+Designation: Lecturer
+Email: abeer.gauhar@nu.edu.pk
+Extension: 142
+Profile: https://khi.nu.edu.pk/personnel/ms-abeer-gauher/
+
+
+Name: Mr. Muhammad Ali Naseer Shah
+Designation: Lecturer
+Email: ali.musavi.shah@nu.edu.pk
+Extension: 284
+Profile: https://khi.nu.edu.pk/personnel/mr-muhammad-ali/
+
+
+Name: Mr. Sandesh Kumar
+Designation: Lecturer
+Email: sandesh.kumar@nu.edu.pk
+Extension: 172
+Profile: https://khi.nu.edu.pk/personnel/mr-sandesh-kumar/
+
+
+Name: Mr. Muhammad Nouman Rajput
+Designation: Lecturer
+Email: nouman.rajput@nu.edu.pk
+Extension: 287
+Profile: https://khi.nu.edu.pk/personnel/mr-muhammad-nouman-rajput/
+
+
+Name: Mr. Muhammad Usman
+Designation: Lecturer
+Email: muhammadusman@nu.edu.pk
+Extension: -
+Profile: https://khi.nu.edu.pk/personnel/mr-muhammad-usman/
+
+
+Name: Mr. Waseem Rauf
+Designation: Lecturer
+Email: waseem.rauf@nu.edu.pk
+Extension: -
+Profile: https://khi.nu.edu.pk/personnel/mr-waseem-rauf/
+
+
+Name: Mr. Saqib Shah
+Designation: Instructor
+Email: saqib.shah@nu.edu.pk
+Extension: -
+Profile: https://khi.nu.edu.pk/personnel/mr-saqib-shah/
+
+
+Name: Ms. Amna Aslam
+Designation: Instructor
+Email: amna.aslam@nu.edu.pk
+Extension: -
+Profile: https://khi.nu.edu.pk/personnel/ms-amna-aslam/
+
