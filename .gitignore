@@ -1,4 +1,8 @@
+# Environment variables
 .env
-.venv
-/**/*.html
-rag_fixed.ipynb
+
+# Virtual environment
+.venv/
+
+# Ignore all HTML files
+*.html
